@@ -1,0 +1,8 @@
+streamlit
+bitarray
+pandas
+numpy
+scikit-learn
+joblib
+obd
+requests
